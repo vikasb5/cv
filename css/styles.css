@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(247, 226, 214, 1);
+  }
+  hr {
+    background-color: rgba(247, 226, 214, 1);
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+  }
+  h1 {
+    color: #A27B5C;
+  }
+  h3{
+    color: #A27B5C;
+  }
